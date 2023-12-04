@@ -107,3 +107,10 @@ ENV/
 
 # In-tree generated files
 */_version.py
+
+# emacs
+*~
+
+# temporary data files
+*.in
+*.out
