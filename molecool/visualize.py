@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-from atom_data import atom_colors
+from .atom_data import atom_colors
 
 """
 Functions for visualization of molecules
