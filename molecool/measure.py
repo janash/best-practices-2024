@@ -4,7 +4,7 @@ import numpy as np
 This module is for functions that perform measurements.
 """
 
-def calculate_distance(rA, rB):
+def calculate_distance(rA: np.ndarray, rB: np.ndarray):
     """Calculate the distance between two points.
 
     Parameters
